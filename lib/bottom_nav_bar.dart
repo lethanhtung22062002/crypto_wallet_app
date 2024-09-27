@@ -16,7 +16,7 @@ class BottomNavBar extends StatelessWidget {
       items: [
         BottomNavigationBarItem(
           icon: Image.asset(
-            "images/icon1.png",
+            "assets/images/icon1.png",
             height: 25,
           ),
           label: "",

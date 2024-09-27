@@ -101,9 +101,9 @@ class _WalletHomeScreenState extends State<WalletHomeScreen> {
                       iconUrl:
                           'https://icons.iconarchive.com/icons/cjdowner/cryptocurrency/128/Ripple-icon.png',
                       percentage: -13.55,
-                      myCrypto:  '1911.633681 XRP',
+                      myCrypto: '1911.633681 XRP',
                       balance: '\$859',
-                      profit:'\$ 0.45',
+                      profit: '\$ 0.45',
                     ),
                   ],
                 ),
@@ -136,7 +136,7 @@ class _WalletHomeScreenState extends State<WalletHomeScreen> {
               fontWeight: FontWeight.bold,
             ),
           ),
-          Image.asset("images/icon1.png", height: 25),
+          Image.asset("assets/images/icon1.png", height: 25),
         ],
       ),
     );
