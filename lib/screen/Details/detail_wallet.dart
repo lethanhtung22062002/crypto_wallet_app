@@ -195,7 +195,7 @@ class DetailWalletScreen extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
           ),
-          Image.asset("images/icon1.png", height: 25),
+          Image.asset("assets/images/icon1.png", height: 25),
         ],
       ),
     );
